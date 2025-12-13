@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/62311/m/tabby-logo.png?v=1669624763" width="200" alt="Tabby application icon"><br>
+<img src="https://portapps.io/img/app/tabby.png" width="200" alt="Tabby application icon"><br>
 <a href="https://mac-share-apps.github.io/.github/tabby">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Tabby macOS product page">
 </a><br><br>
